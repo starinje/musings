@@ -11,7 +11,7 @@ In a word - **Clarity**. People want to understand what is expected of them and 
 Engineers are often asked to solve insufficiently defined problems. It is my responsibility as an engineering leader to clarify what is being asked for so that individual contributors can focus on execution.
 
 ### Simple > Complex. 
-Engineers are infamous for creating complex systems that solve simple problems. True engineering excellence is **building simple solutions that solve complex problems**. Always strive to simply the solution. A simple implementation reduces cognitive overload on the team and empowers them to ship solutions quickly. Once you have the essential functionality covered and operational, then you can layer on additional functionality. 
+Engineers are infamous for creating complex systems that solve simple problems. True engineering excellence is **building simple solutions that solve complex problems**. Always strive to simply the solution. A simple implementation reduces cognitive overload on the team and empowers them to ship solutions quickly. Once you have the essential functionality covered and operational, then you can layer on additional bells and whistles. 
 
 ### Encourage a culture of writing.
 Writing has the amazing ability to clarify thoughts. It is not just the capturing of thoughts, rather it facilitates the actual development of the idea itself. As we write, we are forced to answer the unknowns of a given idea or strategy and it forces us to go find those answers. In a team context, it also serves as a catalyst for alignment by creating a source of truth for all parties to find consensus. 
