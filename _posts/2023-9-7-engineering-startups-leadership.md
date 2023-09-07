@@ -25,7 +25,7 @@ Writing has the amazing ability to clarify thoughts. It is not just the capturin
 * Document problems and solutions in plain English in a single spot that everyone is able to find. Ultimately the engineering output needs to deliver a solution to a business or user pain point, and the language surrounding the requirements should reflect this.
 
 ### Default to Action
-Don't analyze a problem to death. We learn as we move, so define the problem, identify a solution, and start building it as quickly as possible. It will evolve and change but you need to start the feedback loop as quickly as possible. 
+Don't analyze a problem to death. We learn as we move, so define the problem, identify a solution, and start building. It will evolve and change but you need to start the feedback loop as quickly as possible. 
 
 ### The Three Levers
 There are three things that are always asked of engineering 
