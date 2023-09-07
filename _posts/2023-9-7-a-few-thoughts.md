@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: A Few Thoughts...
+title: A Few Thoughts...
 ---
 
 Just a few thoughts that I jotted down recently after a bit of reflection on 12 years of engineering both as an individual contributor as well as an engineering manager.
