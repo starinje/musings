@@ -3,7 +3,7 @@ layout: post
 title: Some Musings on Engineering Management
 ---
 
-Here are few thoughts that I wrote up as a bit of a retrospective on 12 years of engineering and leading engineering teams. I wanted to aggregate the perspectives that I have come to assume over the course of my career.
+Here are a few takeaways and thoughts that I wrote down recently as a bit of a retrospective after 12 years of engineering both as an individual contributor as well as an engineering team lead.
 
 ### What do team members want most of all?
 In a word - **Clarity**. People want to understand what is expected of them and how to measure success both individually and as a group. As an engineering leader, it is my job to cut through the chaos that is a part of any organization but particularly present in a startup, and provide clarity on what is currently the goal of 1) the team and 2) the individual contributor. 
@@ -21,14 +21,17 @@ Writing has the amazing ability to clarify thoughts. It is not just the capturin
 * Simple system level diagrams + documentation that answers:
   * What are all the pieces of the system?
   * What is each part responsible for?
-  * how do all of the pieces fit together?
+  * How do all of the pieces fit together?
 * Document problems and solutions in plain English in a single spot that everyone is able to find. Ultimately the engineering output needs to deliver a solution to a business or user pain point, and the language surrounding the requirements should reflect this.
 
 ### Default to Action
 Don't analyze a problem to death. We learn as we move, so define the problem, identify a solution, and start building it as quickly as possible. It will evolve and change but you need to start the feedback loop as quickly as possible. 
 
 ### The Three Levers
-There are three things of that are always asked of engineering - 1) All the functionality, 2) As fast as possible, and 3) Of the highest quality.
+There are three things that are always asked of engineering 
+1) All the functionality
+2) As fast as possible
+3) Of the highest quality.
 
 The reality is that you have to choose just 2 of these options when delivering a solution. You have to weigh which lever you are going to compromise. Most of the time, you should reduce the scope of the requirements to the minimum required functionality that still solves the problem effectively.
 
