@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Musings on Engineering Management
 ---
 
 Here are few thoughts that I wrote up as a bit of a retrospective on 12 years of engineering and leading engineering teams. I wanted to aggregate the perspectives that I have come to assume over the course of my career.
