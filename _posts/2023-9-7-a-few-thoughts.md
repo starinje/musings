@@ -16,7 +16,7 @@ Engineers are infamous for creating complex systems that solve simple problems. 
 ### Encourage a culture of writing.
 Writing has the amazing ability to clarify thoughts. It is not just the capturing of thoughts, rather it facilitates the actual development of the idea itself. As we write, we are forced to answer the unknowns of a given idea or strategy and it forces us to go find those answers. In a team context, it also serves as a catalyst for alignment by creating a source of truth for all parties to find consensus. 
 
-### What does this mean practically for an engineering team?
+#### What does this mean practically?
 * Simple + Comprehensive code documentation. Any developer coming to the project should at a minimum be able to install and run the application locally and understand how to contribute to the codebase simply by reading the code documentation.
 * Simple system level diagrams + documentation that answers:
   * What are all the pieces of the system?
