@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Some Musings on Engineering Management
+title: Some Musings on Engineering
 ---
 
-Here are a few takeaways and thoughts that I wrote down recently as a bit of a retrospective after 12 years of engineering both as an individual contributor as well as an engineering team lead.
+Here are a few thoughts that I jotted down recently after a bit of reflection on 12 years of engineering both as an individual contributor as well as an engineering manager.
 
 ### What do team members want most of all?
 In a word - **Clarity**. People want to understand what is expected of them and how to measure success both individually and as a group. As an engineering leader, it is my job to cut through the chaos that is a part of any organization but particularly present in a startup, and provide clarity on what is currently the goal of 1) the team and 2) the individual contributor. 
