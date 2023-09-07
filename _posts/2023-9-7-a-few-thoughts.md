@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Few Thoughts on Engineering and Leadership
+title: A Few Thoughts on Engineering, Startups, and Leadership
 ---
 
 Just a handful of takeaways that I jotted down recently after a bit of reflection on 12 years of engineering both as an individual contributor as well as an engineering manager.
@@ -8,7 +8,7 @@ Just a handful of takeaways that I jotted down recently after a bit of reflectio
 ### What do team members want most of all?
 In a word - **Clarity**. People want to understand what is expected of them and how to measure success both individually and as a group. As an engineering leader, it is my job to cut through the chaos that is a part of any organization but particularly present in a startup, and provide clarity on what is currently the goal of 1) the team and 2) the individual contributor. 
 
-Engineers are often asked to solve insufficiently defined problems. It is my job as an engineering leader to clarify what is being asked for so that individual contributors can focus on execution.
+Engineers are often asked to solve insufficiently defined problems. It is my responsibility as an engineering leader to clarify what is being asked for so that individual contributors can focus on execution.
 
 ### Simple > Complex. 
 Engineers are infamous for creating complex systems that solve simple problems. True engineering excellence is **building simple solutions that solve complex problems**. Always strive to simply the solution. A simple implementation reduces cognitive overload on the team and empowers them to ship solutions quickly. Once you have the essential functionality covered and operational, then you can layer on additional functionality. 
