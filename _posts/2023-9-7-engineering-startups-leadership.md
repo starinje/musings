@@ -41,5 +41,5 @@ The reality is that you have to choose just 2 of these options when delivering a
 * Include people in the decision-making process, when they are brought along on the journey they will end up owning the decision and putting themselves behind it.
 * Don't be afraid to make decisions that not everyone agrees with. Just because you invite feedback does not mean that everyone has to be 100% in agreement before action is taken. What is critical is that everyone understands what the final decision is and what is expected of them to contribute.
 * Allow people to try and fail, it's the only way we learn.
-* Verbalise appreciation to people, we all want to be recognized for our efforts.
+* Verbalize appreciation to people, we all want to be recognized for our efforts.
 * Bring solutions, not problems. 
